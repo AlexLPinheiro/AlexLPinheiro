@@ -1,6 +1,7 @@
 # 💫 About Me:
 
-## Hi! I´m Alex
+## Hello guys! I´m Alex Pinheiro
+
 
 I’m a developer who loves exploring the full stack and pushing myself with new challenges. I enjoy building things, breaking them, and figuring out how to make them better. Recently, I’ve been diving deeper into system design, software architecture, and backend development with Spring Boot — areas that really keep me curious and motivated to grow. I’m always looking for new ideas to learn, experiment with, and turn into something useful.
 
