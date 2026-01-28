@@ -8,6 +8,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=C21DF7&center=true&width=500&height=80&lines=Hi!+Im+Alex+Pinheiro)](https://git.io/typing-svg)
 </div>
 
+### Software Developer at Bosch
 
 I’m a developer who loves exploring the full stack and pushing myself with new challenges. I enjoy building things, breaking them, and figuring out how to make them better. Recently, I’ve been diving deeper into system design, software architecture, and backend development with Spring Boot — areas that really keep me curious and motivated to grow. I’m always looking for new ideas to learn, experiment with, and turn into something useful.
 
