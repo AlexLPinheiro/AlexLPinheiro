@@ -57,6 +57,10 @@ I’m a developer who loves exploring the full stack and pushing myself with new
 ---
 [![](https://visitcount.itsvg.in/api?id=AlexLPinheiro&icon=0&color=0)](https://visitcount.itsvg.in)
 
+---
+
+![snake gif](https://github.com/AlexLPinheiro/AlexLPinheiro/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
