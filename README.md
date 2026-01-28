@@ -58,17 +58,9 @@ I’m a developer who loves exploring the full stack and pushing myself with new
 [![](https://visitcount.itsvg.in/api?id=AlexLPinheiro&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
+### Contribuitions:
 
-<div align="center">
-	<img
-		alt="Snake animation"
-		src="https://github.com/AlexLPinheiro/AlexLPinheiro/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only"
-	/>
-	<img
-		alt="Snake animation"
-		src="https://github.com/AlexLPinheiro/AlexLPinheiro/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"
-	/>
-</div>
+![snake gif](https://github.com/AlexLPinheiro/AlexLPinheiro/blob/output/github-contribution-grid-snake.svg)
 
 
 
