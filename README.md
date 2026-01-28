@@ -12,8 +12,15 @@
 
 I’m a developer who loves exploring the full stack and pushing myself with new challenges. I enjoy building things, breaking them, and figuring out how to make them better. Recently, I’ve been diving deeper into system design, software architecture, and backend development with Spring Boot — areas that really keep me curious and motivated to grow. I’m always looking for new ideas to learn, experiment with, and turn into something useful.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/alex-pinheiro-6b66472b9) 
+<p align="center">
+	<br />
+	<a href="www.linkedin.com/in/alex-pinheiro-6b66472b9"
+		><img
+			src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
+			alt="LinkedIn" /></a
+	>&nbsp;
+	
+</p>
 
 
 
