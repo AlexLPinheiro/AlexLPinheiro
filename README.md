@@ -31,6 +31,7 @@ I’m a developer who loves exploring the full stack and pushing myself with new
 <div align="center" style="margin: 25px 0;">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="50" height="50" style="margin: 0 20px;" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="Typescript" width="50" height="50" style="margin: 0 20px;" />
+	<img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="NextJs" width="50" height="50" style="margin: 0 20px;" />
 </div>
 
 ### ⚙️ **Backend Development**
