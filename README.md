@@ -52,8 +52,9 @@ I’m a developer who loves exploring the full stack and pushing myself with new
 ---
 
 # 📊 GitHub Stats:
-![AlexLPinheiro's Stats](https://github-readme-stats.vercel.app/api?username=AlexLPinheiro&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![AlexLPinheiro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexLPinheiro&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=AlexLPinheiro&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AlexLPinheiro&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexLPinheiro&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AlexLPinheiro&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -66,6 +67,8 @@ I’m a developer who loves exploring the full stack and pushing myself with new
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexLPinheiro/AlexLPinheiro/output/github-contribution-grid-snake.svg?raw=true">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AlexLPinheiro/AlexLPinheiro/output/github-contribution-grid-snake.svg?raw=true">
 </picture>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
 
