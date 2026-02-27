@@ -53,9 +53,11 @@ I’m a developer who loves exploring the full stack and pushing myself with new
 
 # 📊 GitHub Stats:
 <div align="center">
-	![](https://github-readme-stats.vercel.app/api?username=AlexLPinheiro&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-	![](https://nirzak-streak-stats.vercel.app/?user=AlexLPinheiro&theme=midnight-purple&hide_border=false)<br/>
-	![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexLPinheiro&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexLPinheiro&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=AlexLPinheiro&theme=midnight-purple&hide_border=false" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexLPinheiro&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
 </div>
 
 
